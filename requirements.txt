@@ -1,0 +1,6 @@
+goto-statement==1.2
+dominate==2.7.0
+psutil==5.9.0
+facebook_wda==1.4.6
+pyqt==5.15.7
+opencv-python==4.6.0.66
