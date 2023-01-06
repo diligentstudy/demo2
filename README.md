@@ -5,7 +5,7 @@
 
 #### iphone手机群控，对目标APP进行批量操作，如登录、注册，目前实现对手机批量连接，对目标APP操作正在开发中。
 #### The group control of iPhone mobile phones enables batch operations on the target APP, such as login and registration. Currently, the mobile phone is connected in batch, and the target APP operation is under development.
-
+![效果图](https://github.com/diligentstudy/iosgroupctrl/blob/main/images/WechatIMG1875.jpeg "效果图")
 #
 ## 开发环境 development environment:
 ### mac Ventura 13.0.1,pycharm 2021,Python3.7,tidevice,facebook_wda,pyqt,opencv-python,pyinstaller  
